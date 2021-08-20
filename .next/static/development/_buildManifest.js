@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/dnd-kit/sortable":["static\u002Fchunks\u002Fpages\u002Fdnd-kit\u002Fsortable.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fdnd-kit\u002Fsortable"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
